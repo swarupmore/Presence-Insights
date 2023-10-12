@@ -5,10 +5,10 @@ The dataset utilized in this project pertains to an HR Company, focusing on moni
 
 ## Key Features:
 
-Employee Overview: Detailed profiles of individual employees, showcasing their attendance records.
-Company-wide Insights: Comprehensive statistics presenting overall company attendance data.
-Presence Percentage: Visual representation of employee attendance percentages.
-Leave Tracking: In-depth analysis of Sick Leave and Work From Home Leave patterns.
+1.Employee Overview: Detailed profiles of individual employees, showcasing their attendance records.
+2.Company-wide Insights: Comprehensive statistics presenting overall company attendance data.
+3.Presence Percentage: Visual representation of employee attendance percentages.
+4.Leave Tracking: In-depth analysis of Sick Leave and Work From Home Leave patterns.
 
 ## Purpose:
 The primary objective of this dashboard is to provide stakeholders with a clear understanding of the company's attendance structure. By offering insights into Presence Percentage, Sick Leave, and Work From Home Leave, the dashboard aids in making data-driven decisions related to workforce management and productivity enhancement.
